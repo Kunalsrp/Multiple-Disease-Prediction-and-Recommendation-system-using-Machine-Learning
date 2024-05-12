@@ -4,13 +4,13 @@ It is an Machine learning based Disease prediction and personalised recommendati
 This is a Dynamic project wholely divided into two parts
 ------------------------------------------------------------
   1) Doctor's part with total 7 Deadly disease like -
-     a) Heart Disease
-     b) Parkinson's Disease
-     c) Dibetes
-     d) Lungs Disease
-     e) Breast Cancer
-     f) Kidney Disease
-     g) Liver Disease.
+     - Heart Disease
+     - Parkinson's Disease
+     - Dibetes
+     - Lungs Disease
+     - Breast Cancer
+     - Kidney Disease
+     - Liver Disease.
 
   2) Normal Patient's part with nearly 40 normal disease like Allergy, Jaundice, Thyphoid,.....
      - Also this part recommends basic home remedies that a person can take.
