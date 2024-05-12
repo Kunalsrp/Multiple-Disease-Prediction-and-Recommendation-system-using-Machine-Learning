@@ -20,10 +20,12 @@ This is a Dynamic project wholely divided into two parts
 Screenshots of Frontend :-
 ---------------------------
 A)  Introduction Page -
+---------------------------
 ![Screenshot (175)](https://github.com/Kunalsrp/Multiple-Disease-Prediction-and-Recommendation-system-using-Machine-Learning/assets/114215678/ca711ede-e1b7-4079-a60a-3197c72414c8)
 ![Screenshot (176)](https://github.com/Kunalsrp/Multiple-Disease-Prediction-and-Recommendation-system-using-Machine-Learning/assets/114215678/42aaa4fa-c2da-4467-b109-1e1e80dbad45)
 
 B)  Doctor's Part - 
+----------------------
 ![Screenshot (178)](https://github.com/Kunalsrp/Multiple-Disease-Prediction-and-Recommendation-system-using-Machine-Learning/assets/114215678/dd2d3505-4ce8-441c-aa74-8c629c350b27)
 ![Screenshot (180)](https://github.com/Kunalsrp/Multiple-Disease-Prediction-and-Recommendation-system-using-Machine-Learning/assets/114215678/6b2d7693-4a43-4ea4-a944-f6e6fdd493ea)
 ![Screenshot (181)](https://github.com/Kunalsrp/Multiple-Disease-Prediction-and-Recommendation-system-using-Machine-Learning/assets/114215678/ca567a18-a503-4c42-9f89-86c11c4adbec)
@@ -34,6 +36,7 @@ B)  Doctor's Part -
 ![Screenshot (186)](https://github.com/Kunalsrp/Multiple-Disease-Prediction-and-Recommendation-system-using-Machine-Learning/assets/114215678/0c3445f8-84e5-4282-9724-8f9d8e86e240)
 
 C) Normal Patient's Part -
+----------------------------
 ![Screenshot (187)](https://github.com/Kunalsrp/Multiple-Disease-Prediction-and-Recommendation-system-using-Machine-Learning/assets/114215678/3f60fca7-a99a-4872-ac06-1472bdc588b0)
 ![Screenshot (188)](https://github.com/Kunalsrp/Multiple-Disease-Prediction-and-Recommendation-system-using-Machine-Learning/assets/114215678/6ff00f96-106a-45a3-83c8-dc360b13794c)
 ![Screenshot (189)](https://github.com/Kunalsrp/Multiple-Disease-Prediction-and-Recommendation-system-using-Machine-Learning/assets/114215678/7090a5a1-8bfb-4a5f-ab44-6b2e027e9ee7)
